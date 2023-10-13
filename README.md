@@ -1,1 +1,1 @@
-# StaticSites-
+# StaticSite
